@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44e3bc08-85b3-4725-870c-b49a2ed982f8": {
+      "ProjectGuid": "44e3bc08-85b3-4725-870c-b49a2ed982f8",
+      "DisplayName": "AutoScanner",
+      "ColorIndex": 0
+    },
+    "63373e6f-124b-45a9-be3e-9e74be525c2a": {
+      "ProjectGuid": "63373e6f-124b-45a9-be3e-9e74be525c2a",
+      "DisplayName": "AutoScannerApp",
+      "ColorIndex": 1
+    },
+    "4cdba028-bf46-4b00-a758-5e0b829f452e": {
+      "ProjectGuid": "4cdba028-bf46-4b00-a758-5e0b829f452e",
+      "DisplayName": "WPFTestApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
